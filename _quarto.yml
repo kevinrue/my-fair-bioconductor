@@ -13,6 +13,7 @@ book:
   date: "8/12/2026"
   chapters:
     - index.qmd
+    - contributors.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
