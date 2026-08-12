@@ -1,5 +1,28 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+## Who this book is for
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Describe personas, e.g.
+
+- Bioconductor user
+- Galaxy user
+- nf-core user
+- Bioconductor developer
+- Galaxy developer
+- nf-core developer
+- Data science trainer
+- Data steward
+
+## What this book is
+
+Describe what this book offers to the personas listed above, e.g.
+
+- Signposting resources
+  - Wrapping Bioconductor functionality as Galaxy tools.
+  - Wrapping Bioconductor functionality as nf-core modules.
+  - Integrating Bioconductor functionality in Galaxy workflows.
+  - Integrating Bioconductor functionality in nf-core pipelines.
+- Definitions
+  - Working definitions of Bioconductor, Galaxy, nf-core, WorkflowHub, and other relevant terms in relation to each other, avoiding jargon and implied knowledge to make the book inclusive and accessible to a wide audience.
+- Guidance
+  - Suggested roadmap for planning and wrapping Bioconductor functionality in Galaxy tools and workflows, and nf-core modules and pipelines.
