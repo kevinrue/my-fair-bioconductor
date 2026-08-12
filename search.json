@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my-fair-bioconductor",
+    "section": "",
+    "text": "Preface"
+  },
+  {
+    "objectID": "index.html#who-this-book-is-for",
+    "href": "index.html#who-this-book-is-for",
+    "title": "my-fair-bioconductor",
+    "section": "Who this book is for",
+    "text": "Who this book is for\nDescribe personas, e.g.\n\nBioconductor user\nGalaxy user\nnf-core user\nBioconductor developer\nGalaxy developer\nnf-core developer\nData science trainer\nData steward"
+  },
+  {
+    "objectID": "index.html#what-this-book-is",
+    "href": "index.html#what-this-book-is",
+    "title": "my-fair-bioconductor",
+    "section": "What this book is",
+    "text": "What this book is\nDescribe what this book offers to the personas listed above, e.g.\n\nSignposting resources\n\nWrapping Bioconductor functionality as Galaxy tools.\nWrapping Bioconductor functionality as nf-core modules.\nIntegrating Bioconductor functionality in Galaxy workflows.\nIntegrating Bioconductor functionality in nf-core pipelines.\n\nDefinitions\n\nWorking definitions of Bioconductor, Galaxy, nf-core, WorkflowHub, and other relevant terms in relation to each other, avoiding jargon and implied knowledge to make the book inclusive and accessible to a wide audience.\n\nGuidance\n\nSuggested roadmap for planning and wrapping Bioconductor functionality in Galaxy tools and workflows, and nf-core modules and pipelines."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
