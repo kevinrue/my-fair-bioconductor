@@ -1,5 +1,11 @@
 # Preface {.unnumbered}
 
+## What this book is
+
+This book was initiated during a BioFAIR Collaboration Fest held at The Open University on 15-17 September 2026.
+
+It aims to provide a playbook for producing FAIR ([Findable, Accessible, Interoperable, Reusable](https://www.go-fair.org/fair-principles/)) Bioconductor assets in collaboration with other Open Science communities.
+
 ## Who this book is for
 
 Describe personas, e.g.
@@ -13,7 +19,7 @@ Describe personas, e.g.
 - Data science trainer
 - Data steward
 
-## What this book is
+## What this book contains
 
 Describe what this book offers to the personas listed above, e.g.
 
