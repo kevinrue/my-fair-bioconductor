@@ -14,7 +14,7 @@ book:
   chapters:
     - index.qmd
     - contributors.qmd
-    - intro.qmd
+    - definitions.qmd
     - summary.qmd
     - references.qmd
 

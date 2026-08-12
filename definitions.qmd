@@ -1,0 +1,21 @@
+# Definitions
+
+Shared definitions and language are essential for effective communication and collaboration across communities, and for ensuring that the FAIR principles are applied consistently.
+
+The following definitions aim to redefine key terms in a way that is accessible to a wide audience, including those who may not be familiar with the specific communities or technologies involved.
+
+## Bioconductor
+
+Bioconductor is ...
+
+## Galaxy
+
+The Galaxy project is ...
+
+## Nextflow
+
+Nextflow is ...
+
+## nf-core
+
+nf-core is ...
