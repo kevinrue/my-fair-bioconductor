@@ -124,9 +124,29 @@
     "href": "bioc_in_galaxy.html#galaxy-file-types-for-bioconductor-objects",
     "title": "2  Bioconductor in Galaxy",
     "section": "2.3 Galaxy file types for Bioconductor objects",
-    "text": "2.3 Galaxy file types for Bioconductor objects\nHow are R objects stored on disk in Galaxy? What are the preferred file types for interoperability with other programming languages and software ecosystems?\nFor example, this GitHub issue has been discussing insecure aspects of RData files. While those are the default file type for R objects, they are not interoperable with other programming languages and software ecosystems. Instead, the loom file format has gained popularity as a preferred file type for disk-based storage of R objects, and is interoperable with other programming languages and software ecosystems.",
+    "text": "2.3 Galaxy file types for Bioconductor objects\nHow are R objects stored on disk in Galaxy? What are the preferred file types for interoperability with other programming languages and software ecosystems?\nFor example, this GitHub issue has been discussing insecure aspects of RData files. While those are the default file type for R objects, they are not interoperable with other programming languages and software ecosystems. Instead, the loom file format has gained popularity as a preferred file type for disk-based storage of R objects, and is interoperable with other programming languages and software ecosystems",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Bioconductor in Galaxy</span>"
+    ]
+  },
+  {
+    "objectID": "bioc_in_nfcore.html",
+    "href": "bioc_in_nfcore.html",
+    "title": "3  Bioconductor in nf-core",
+    "section": "",
+    "text": "3.1 Overview\nThe following sections contains prompts for specific guidance on searching for Bioconductor tools in nf-core, identifying gaps, and specific recommendations for adding interoperable Bioconductor tooling in Galaxy.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Bioconductor in nf-core</span>"
+    ]
+  },
+  {
+    "objectID": "bioc_in_nfcore.html#searching-for-bioconductor-tools-in-nf-core",
+    "href": "bioc_in_nfcore.html#searching-for-bioconductor-tools-in-nf-core",
+    "title": "3  Bioconductor in nf-core",
+    "section": "3.2 Searching for Bioconductor tools in nf-core",
+    "text": "3.2 Searching for Bioconductor tools in nf-core\nHow does one find Bioconductor tools in nf-core? What are the search terms and strategies that can be used to locate Bioconductor functionality within the nf-core modules?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Bioconductor in nf-core</span>"
     ]
   },
   {
