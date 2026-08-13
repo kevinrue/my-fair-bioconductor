@@ -4,69 +4,109 @@
     "href": "index.html",
     "title": "My FAIR Bioconductor",
     "section": "",
-    "text": "Preface"
+    "text": "Preface",
+    "crumbs": [
+      "Preface"
+    ]
   },
   {
     "objectID": "index.html#what-this-book-is",
     "href": "index.html#what-this-book-is",
     "title": "My FAIR Bioconductor",
     "section": "What this book is",
-    "text": "What this book is\nThis book was initiated during a BioFAIR Collaboration Fest held at The Open University on 15-17 September 2026.\nIt aims to provide a playbook for producing FAIR (Findable, Accessible, Interoperable, Reusable) Bioconductor assets in collaboration with other Open Science communities."
+    "text": "What this book is\nThis book was initiated during a BioFAIR Collaboration Fest held at The Open University on 15-17 September 2026.\nIt aims to provide a playbook, written in collaboration with other Open Science communities, for applying the FAIR principles – Findable, Accessible, Interoperable, Reusable – to Bioconductor assets, with a particular focus on facilitating their integration and reuse in other software ecosystems.\nIt takes Bioconductor as a case study of community developing open source software, data, and training resources widely adopted by the life sciences research community, and provides guidance for users and developers to search for, access, and reuse Bioconductor functionality in other software ecosystems, starting with Galaxy and nf-core as established communities consuming Bioconductor functionality alongside other bioinformatics software.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#what-this-book-is-not",
+    "href": "index.html#what-this-book-is-not",
+    "title": "My FAIR Bioconductor",
+    "section": "What this book is not",
+    "text": "What this book is not\nThis book does not replace existing documentation and guidance for:\n\nDevelopment, Maintenance, and Peer Review of Bioconductor packages\nTool development and integration into Galaxy\nCreating nf-core modules\n\nRelevant documentation and guidance for these topics is maintained by the respective communities, and this book signposts to these resources where appropriate.",
+    "crumbs": [
+      "Preface"
+    ]
   },
   {
     "objectID": "index.html#who-this-book-is-for",
     "href": "index.html#who-this-book-is-for",
     "title": "My FAIR Bioconductor",
     "section": "Who this book is for",
-    "text": "Who this book is for\nDescribe personas, e.g.\n\nBioconductor user\nGalaxy user\nnf-core user\nBioconductor developer\nGalaxy developer\nnf-core developer\nData science trainer\nData steward"
+    "text": "Who this book is for\nDescribe personas, e.g.\n\nBioconductor user\nGalaxy user\nnf-core user\nBioconductor developer\nGalaxy developer\nnf-core developer\nData science trainer\nData steward",
+    "crumbs": [
+      "Preface"
+    ]
   },
   {
     "objectID": "index.html#what-this-book-contains",
     "href": "index.html#what-this-book-contains",
     "title": "My FAIR Bioconductor",
     "section": "What this book contains",
-    "text": "What this book contains\nDescribe what this book offers to the personas listed above, e.g.\n\nSignposting resources\n\nWrapping Bioconductor functionality as Galaxy tools.\nWrapping Bioconductor functionality as nf-core modules.\nIntegrating Bioconductor functionality in Galaxy workflows.\nIntegrating Bioconductor functionality in nf-core pipelines.\n\nDefinitions\n\nWorking definitions of Bioconductor, Galaxy, nf-core, WorkflowHub, and other relevant terms in relation to each other, avoiding jargon and implied knowledge to make the book inclusive and accessible to a wide audience.\n\nGuidance\n\nSuggested roadmap for planning and wrapping Bioconductor functionality in Galaxy tools and workflows, and nf-core modules and pipelines."
+    "text": "What this book contains\nDescribe what this book offers to the personas listed above, e.g.\n\nSignposting resources\n\nWrapping Bioconductor functionality as Galaxy tools.\nWrapping Bioconductor functionality as nf-core modules.\nIntegrating Bioconductor functionality in Galaxy workflows.\nIntegrating Bioconductor functionality in nf-core pipelines.\n\nDefinitions\n\nWorking definitions of Bioconductor, Galaxy, nf-core, WorkflowHub, and other relevant terms in relation to each other, avoiding jargon and implied knowledge to make the book inclusive and accessible to a wide audience.\n\nGuidance\n\nSuggested roadmap for planning and wrapping Bioconductor functionality in Galaxy tools and workflows, and nf-core modules and pipelines.",
+    "crumbs": [
+      "Preface"
+    ]
   },
   {
     "objectID": "contributors.html",
     "href": "contributors.html",
     "title": "Contributors",
     "section": "",
-    "text": "The table below lists the names (alphabetical order), affiliations, ORCID identifiers, and roles of each contributor.\n\n\n\nName\nAffiliation\nORCID\nRole\n\n\n\n\nMarisa Loach\nThe Open University\n0000-0001-6979-6930\nWriting – review & editing\n\n\nKevin Rue\nOxford University\n0000-0003-3899-3872\nWriting – original draft"
+    "text": "The table below lists the names (alphabetical order), affiliations, ORCID identifiers, and roles of each contributor.\n\n\n\nName\nAffiliation\nORCID\nRole\n\n\n\n\nMarisa Loach\nThe Open University\n0000-0001-6979-6930\nWriting – review & editing\n\n\nKevin Rue\nOxford University\n0000-0003-3899-3872\nWriting – original draft",
+    "crumbs": [
+      "Contributors"
+    ]
   },
   {
-    "objectID": "definitions.html#bioconductor",
-    "href": "definitions.html#bioconductor",
+    "objectID": "definitions.html",
+    "href": "definitions.html",
     "title": "1  Definitions",
-    "section": "1.1 Bioconductor",
-    "text": "1.1 Bioconductor\nBioconductor is …"
+    "section": "",
+    "text": "1.1 Bioconductor\nShared definitions and language are essential for effective communication and collaboration across communities, and for ensuring that the FAIR principles are applied consistently.\nThe following definitions aim to redefine key terms in a way that is accessible to a wide audience, including those who may not be familiar with the specific communities or technologies involved.\nBioconductor is …",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definitions</span>"
+    ]
   },
   {
     "objectID": "definitions.html#galaxy",
     "href": "definitions.html#galaxy",
     "title": "1  Definitions",
     "section": "1.2 Galaxy",
-    "text": "1.2 Galaxy\nThe Galaxy project is …"
+    "text": "1.2 Galaxy\nThe Galaxy project is …",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definitions</span>"
+    ]
   },
   {
     "objectID": "definitions.html#nextflow",
     "href": "definitions.html#nextflow",
     "title": "1  Definitions",
     "section": "1.3 Nextflow",
-    "text": "1.3 Nextflow\nNextflow is …"
+    "text": "1.3 Nextflow\nNextflow is …",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definitions</span>"
+    ]
   },
   {
     "objectID": "definitions.html#nf-core",
     "href": "definitions.html#nf-core",
     "title": "1  Definitions",
     "section": "1.4 nf-core",
-    "text": "1.4 nf-core\nnf-core is …"
+    "text": "1.4 nf-core\nnf-core is …",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Definitions</span>"
+    ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
     "title": "2  Summary",
     "section": "",
-    "text": "In summary, this book has no content whatsoever."
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
   }
 ]
