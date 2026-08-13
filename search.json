@@ -14,7 +14,7 @@
     "href": "index.html#what-this-book-is",
     "title": "My FAIR Bioconductor",
     "section": "What this book is",
-    "text": "What this book is\nThis book was initiated during a BioFAIR Collaboration Fest held at The Open University on 15-17 September 2026.\nIt aims to provide a playbook, written in collaboration with other Open Science communities, for applying the FAIR principles – Findable, Accessible, Interoperable, Reusable – to Bioconductor assets, with a particular focus on facilitating their integration and reuse in other software ecosystems.\nIt takes Bioconductor as a case study of community developing open source software, data, and training resources widely adopted by the life sciences research community, and provides guidance for users and developers to search for, access, and reuse Bioconductor functionality in other software ecosystems, starting with Galaxy and nf-core as established communities consuming Bioconductor functionality alongside other bioinformatics software.",
+    "text": "What this book is\nThis book was initiated during a BioFAIR Collaboration Fest held at The Open University on 15-17 September 2026.\nIt aims to provide a playbook, written in collaboration with other Open Science communities, for applying the FAIR principles – Findable, Accessible, Interoperable, Reusable – to Bioconductor assets.\nIt takes Bioconductor as a case study of community developing open source software, data, and training resources, and provides guidance for users and developers to search for, access, and reuse Bioconductor functionality in other software ecosystems, starting with Galaxy and nf-core as established communities consuming Bioconductor functionality alongside other bioinformatics software.",
     "crumbs": [
       "Preface"
     ]
@@ -47,16 +47,6 @@
     "text": "What this book contains\nDescribe what this book offers to the personas listed above, e.g.\n\nSignposting resources\n\nWrapping Bioconductor functionality as Galaxy tools.\nWrapping Bioconductor functionality as nf-core modules.\nIntegrating Bioconductor functionality in Galaxy workflows.\nIntegrating Bioconductor functionality in nf-core pipelines.\n\nDefinitions\n\nWorking definitions of Bioconductor, Galaxy, nf-core, WorkflowHub, and other relevant terms in relation to each other, avoiding jargon and implied knowledge to make the book inclusive and accessible to a wide audience.\n\nGuidance\n\nSuggested roadmap for planning and wrapping Bioconductor functionality in Galaxy tools and workflows, and nf-core modules and pipelines.",
     "crumbs": [
       "Preface"
-    ]
-  },
-  {
-    "objectID": "contributors.html",
-    "href": "contributors.html",
-    "title": "Contributors",
-    "section": "",
-    "text": "The table below lists the names (alphabetical order), affiliations, ORCID identifiers, and roles of each contributor.\n\n\n\nName\nAffiliation\nORCID\nRole\n\n\n\n\nMarisa Loach\nThe Open University\n0000-0001-6979-6930\nWriting – review & editing\n\n\nKevin Rue\nOxford University\n0000-0003-3899-3872\nWriting – original draft",
-    "crumbs": [
-      "Contributors"
     ]
   },
   {
@@ -107,6 +97,16 @@
     "text": "In summary, this book has no content whatsoever.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "contributors.html",
+    "href": "contributors.html",
+    "title": "Contributors",
+    "section": "",
+    "text": "The table below lists the names (alphabetical order), affiliations, ORCID identifiers, and roles of each contributor.\n\n\n\nName\nAffiliation\nORCID\nRole\n\n\n\n\nMarisa Loach\nThe Open University\n0000-0001-6979-6930\nWriting – review & editing\n\n\nKevin Rue\nOxford University\n0000-0003-3899-3872\nWriting – original draft",
+    "crumbs": [
+      "Contributors"
     ]
   }
 ]
