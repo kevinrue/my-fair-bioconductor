@@ -6,7 +6,7 @@ This book was initiated during a BioFAIR Collaboration Fest held at The Open Uni
 
 It aims to provide a playbook, written in collaboration with other Open Science communities, for applying the [FAIR principles](https://www.go-fair.org/fair-principles/) -- Findable, Accessible, Interoperable, Reusable -- to Bioconductor assets.
 
-It takes Bioconductor as a case study of community developing open source software, data, and training resources widely adopted by the life sciences research community, and provides guidance for users and developers to search for, access, and reuse Bioconductor functionality in other software ecosystems, starting with Galaxy and nf-core as established communities consuming Bioconductor functionality alongside other bioinformatics software.
+It takes Bioconductor as a case study of community developing open source software, data, and training resources, and provides guidance for users and developers to search for, access, and reuse Bioconductor functionality in other software ecosystems, starting with Galaxy and nf-core as established communities consuming Bioconductor functionality alongside other bioinformatics software.
 
 ## What this book is not
 
