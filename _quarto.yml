@@ -13,9 +13,9 @@ book:
   date: "8/12/2026"
   chapters:
     - index.qmd
-    - contributors.qmd
     - definitions.qmd
     - summary.qmd
+    - contributors.qmd
     - references.qmd
 
 bibliography: references.bib
