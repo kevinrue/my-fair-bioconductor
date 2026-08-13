@@ -6,12 +6,12 @@ The following sections contains prompts for specific guidance on searching for B
 
 ## Searching for Bioconductor tools on Galaxy
 
-How does one find Bioconductor tools on Galaxy? What are the search terms and strategies that can be used to locate Bioconductor functionality within the Galaxy tool shed?
+*How does one find Bioconductor tools on Galaxy? What are the search terms and strategies that can be used to locate Bioconductor functionality within the [Galaxy tool shed](https://galaxyproject.org/toolshed/)?*
 
 ## Galaxy file types for Bioconductor objects
 
-How are R objects stored on disk in Galaxy? What are the preferred file types for interoperability with other programming languages and software ecosystems?
+*How are R objects stored on disk in Galaxy? What are the preferred file types for interoperability with other programming languages and software ecosystems?*
 
-For example, [this GitHub issue](https://github.com/galaxyproject/tools-iuc/issues/3921) has been discussing insecure aspects of RData files.
-While those are the default file type for R objects, they are not interoperable with other programming languages and software ecosystems.
-Instead, the [loom file format](https://loompy.org/) has gained popularity as a preferred file type for disk-based storage of R objects, and is interoperable with other programming languages and software ecosystems.
+*For example, [this GitHub issue](https://github.com/galaxyproject/tools-iuc/issues/3921) has been discussing insecure aspects of RData files.*
+*While those are the default file type for R objects, they are not interoperable with other programming languages and software ecosystems.*
+*Instead, the [loom file format](https://loompy.org/) has gained popularity as a preferred file type for disk-based storage of R objects, and is interoperable with other programming languages and software ecosystems*
