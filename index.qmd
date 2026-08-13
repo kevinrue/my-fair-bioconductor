@@ -4,7 +4,19 @@
 
 This book was initiated during a BioFAIR Collaboration Fest held at The Open University on 15-17 September 2026.
 
-It aims to provide a playbook for producing FAIR ([Findable, Accessible, Interoperable, Reusable](https://www.go-fair.org/fair-principles/)) Bioconductor assets in collaboration with other Open Science communities.
+It aims to provide a playbook, written in collaboration with other Open Science communities, for applying the [FAIR principles](https://www.go-fair.org/fair-principles/) -- Findable, Accessible, Interoperable, Reusable -- to Bioconductor assets, with a particular focus on facilitating their integration and reuse in other software ecosystems.
+
+It takes Bioconductor as a case study of community developing open source software, data, and training resources widely adopted by the life sciences research community, and provides guidance for users and developers to search for, access, and reuse Bioconductor functionality in other software ecosystems, starting with Galaxy and nf-core as established communities consuming Bioconductor functionality alongside other bioinformatics software.
+
+## What this book is not
+
+This book does not replace existing documentation and guidance for:
+
+- [Development, Maintenance, and Peer Review of Bioconductor packages](https://contributions.bioconductor.org/)
+- [Tool development and integration into Galaxy](https://training.galaxyproject.org/training-material/topics/dev/tutorials/tool-integration/slides-plain.html)
+- [Creating nf-core modules](https://nf-co.re/docs/nf-core-tools/cli/modules/create)
+
+Relevant documentation and guidance for these topics is maintained by the respective communities, and this book signposts to these resources where appropriate.
 
 ## Who this book is for
 
