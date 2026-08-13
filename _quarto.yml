@@ -18,7 +18,7 @@ book:
   chapters:
     - index.qmd
     - definitions.qmd
-    - summary.qmd
+    - bioc_in_galaxy.qmd
     - contributors.qmd
     - references.qmd
 
