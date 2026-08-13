@@ -1,12 +1,16 @@
 # Preface {.unnumbered}
 
+## Welcome
+
+In the era of accelerating, AI-assisted, data generation and analysis, the need for open science practices, cross-community standards, and collaboration has never been more critical.
+
 ## What this book is
 
 This book was initiated during a BioFAIR Collaboration Fest held at The Open University on 15-17 September 2026.
 
-It aims to provide a playbook, written in collaboration with other Open Science communities, for applying the [FAIR principles](https://www.go-fair.org/fair-principles/) -- Findable, Accessible, Interoperable, Reusable -- to Bioconductor assets.
+This book is a collaborative effort to provide guidance on applying the [FAIR principles](https://www.go-fair.org/fair-principles/) to [Bioconductor](https://www.bioconductor.org/) assets, ensuring that they are Findable, Accessible, Interoperable, and Reusable, within and beyond the Bioconductor ecosystem.
 
-It takes Bioconductor as a case study of community developing open source software, data, and training resources, and provides guidance for users and developers to search for, access, and reuse Bioconductor functionality in other software ecosystems, starting with Galaxy and nf-core as established communities consuming Bioconductor functionality alongside other bioinformatics software.
+It takes Bioconductor as a case study of community developing open source software, data, and training resources, and provides guidance for users and developers to search for, access, and reuse Bioconductor functionality in other software ecosystems, starting with [Galaxy](https://galaxyproject.org/) and [nf-core](https://nf-co.re/) as established communities consuming Bioconductor functionality alongside other bioinformatics software.
 
 ## What this book is not
 
@@ -44,3 +48,5 @@ Describe what this book offers to the personas listed above, e.g.
   - Working definitions of Bioconductor, Galaxy, nf-core, WorkflowHub, and other relevant terms in relation to each other, avoiding jargon and implied knowledge to make the book inclusive and accessible to a wide audience.
 - Guidance
   - Suggested roadmap for planning and wrapping Bioconductor functionality in Galaxy tools and workflows, and nf-core modules and pipelines.
+  - Processes, resources, and checklists to produce FAIR Bioconductor tool wrappers
+  - Preferred file types for disk-based storage of R object and interoperability with other programming languages and software ecosystems.
