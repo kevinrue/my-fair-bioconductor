@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>References – My FAIR Bioconductor</title>
+<title>2&nbsp; Bioconductor in Galaxy – My FAIR Bioconductor</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -23,26 +23,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -52,7 +33,8 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./contributors.html" rel="prev">
+<link href="./contributors.html" rel="next">
+<link href="./definitions.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -103,7 +85,7 @@ div.csl-indent {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./references.html">References</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./bioc_in_galaxy.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Bioconductor in Galaxy</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -145,7 +127,7 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./bioc_in_galaxy.html" class="sidebar-item-text sidebar-link">
+  <a href="./bioc_in_galaxy.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Bioconductor in Galaxy</span></span></a>
   </div>
 </li>
@@ -157,7 +139,7 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./references.html" class="sidebar-item-text sidebar-link active">
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">References</span></a>
   </div>
 </li>
@@ -166,15 +148,23 @@ div.csl-indent {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview"><span class="header-section-number">2.1</span> Overview</a></li>
+  <li><a href="#searching-for-bioconductor-tools-on-galaxy" id="toc-searching-for-bioconductor-tools-on-galaxy" class="nav-link" data-scroll-target="#searching-for-bioconductor-tools-on-galaxy"><span class="header-section-number">2.2</span> Searching for Bioconductor tools on Galaxy</a></li>
+  <li><a href="#galaxy-file-types-for-bioconductor-objects" id="toc-galaxy-file-types-for-bioconductor-objects" class="nav-link" data-scroll-target="#galaxy-file-types-for-bioconductor-objects"><span class="header-section-number">2.3</span> Galaxy file types for Bioconductor objects</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/kevinrue/my-fair-bioconductor/edit/main/bioc_in_galaxy.qmd" target="_blank" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kevinrue/my-fair-bioconductor/issues/new" target="_blank" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/kevinrue/my-fair-bioconductor/blob/main/bioc_in_galaxy.qmd" target="_blank" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">References</h1>
+<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Bioconductor in Galaxy</span></h1>
 </div>
 
 
@@ -191,11 +181,21 @@ div.csl-indent {
 </header>
 
 
-<div id="refs" role="list" style="display: none">
+<section id="overview" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="overview"><span class="header-section-number">2.1</span> Overview</h2>
+<p>The following sections contains prompts for specific guidance on searching for Bioconductor tools in Galaxy, identifying gaps, and specific recommendations for adding interoperable Bioconductor tooling in Galaxy.</p>
+</section>
+<section id="searching-for-bioconductor-tools-on-galaxy" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="searching-for-bioconductor-tools-on-galaxy"><span class="header-section-number">2.2</span> Searching for Bioconductor tools on Galaxy</h2>
+<p>How does one find Bioconductor tools on Galaxy? What are the search terms and strategies that can be used to locate Bioconductor functionality within the Galaxy tool shed?</p>
+</section>
+<section id="galaxy-file-types-for-bioconductor-objects" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="galaxy-file-types-for-bioconductor-objects"><span class="header-section-number">2.3</span> Galaxy file types for Bioconductor objects</h2>
+<p>How are R objects stored on disk in Galaxy? What are the preferred file types for interoperability with other programming languages and software ecosystems?</p>
+<p>For example, <a href="https://github.com/galaxyproject/tools-iuc/issues/3921">this GitHub issue</a> has been discussing insecure aspects of RData files. While those are the default file type for R objects, they are not interoperable with other programming languages and software ecosystems. Instead, the <a href="https://loompy.org/">loom file format</a> has gained popularity as a preferred file type for disk-based storage of R objects, and is interoperable with other programming languages and software ecosystems.</p>
 
-</div>
 
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -600,11 +600,14 @@ div.csl-indent {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./contributors.html" class="pagination-link" aria-label="Contributors">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Contributors</span>
+      <a href="./definitions.html" class="pagination-link" aria-label="Definitions">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Definitions</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
+      <a href="./contributors.html" class="pagination-link" aria-label="Contributors">
+        <span class="nav-page-text">Contributors</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
   </div>
 </nav>
 </div> <!-- /content -->
@@ -612,4 +615,4 @@ div.csl-indent {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/kevinrue/my-fair-bioconductor/edit/main/references.qmd" target="_blank" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kevinrue/my-fair-bioconductor/issues/new" target="_blank" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/kevinrue/my-fair-bioconductor/blob/main/references.qmd" target="_blank" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/kevinrue/my-fair-bioconductor/edit/main/bioc_in_galaxy.qmd" target="_blank" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kevinrue/my-fair-bioconductor/issues/new" target="_blank" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/kevinrue/my-fair-bioconductor/blob/main/bioc_in_galaxy.qmd" target="_blank" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div></div></footer></body></html>

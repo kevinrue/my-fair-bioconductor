@@ -100,13 +100,33 @@
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "bioc_in_galaxy.html",
+    "href": "bioc_in_galaxy.html",
+    "title": "2  Bioconductor in Galaxy",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.",
+    "text": "2.1 Overview\nThe following sections contains prompts for specific guidance on searching for Bioconductor tools in Galaxy, identifying gaps, and specific recommendations for adding interoperable Bioconductor tooling in Galaxy.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Bioconductor in Galaxy</span>"
+    ]
+  },
+  {
+    "objectID": "bioc_in_galaxy.html#searching-for-bioconductor-tools-on-galaxy",
+    "href": "bioc_in_galaxy.html#searching-for-bioconductor-tools-on-galaxy",
+    "title": "2  Bioconductor in Galaxy",
+    "section": "2.2 Searching for Bioconductor tools on Galaxy",
+    "text": "2.2 Searching for Bioconductor tools on Galaxy\nHow does one find Bioconductor tools on Galaxy? What are the search terms and strategies that can be used to locate Bioconductor functionality within the Galaxy tool shed?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Bioconductor in Galaxy</span>"
+    ]
+  },
+  {
+    "objectID": "bioc_in_galaxy.html#galaxy-file-types-for-bioconductor-objects",
+    "href": "bioc_in_galaxy.html#galaxy-file-types-for-bioconductor-objects",
+    "title": "2  Bioconductor in Galaxy",
+    "section": "2.3 Galaxy file types for Bioconductor objects",
+    "text": "2.3 Galaxy file types for Bioconductor objects\nHow are R objects stored on disk in Galaxy? What are the preferred file types for interoperability with other programming languages and software ecosystems?\nFor example, this GitHub issue has been discussing insecure aspects of RData files. While those are the default file type for R objects, they are not interoperable with other programming languages and software ecosystems. Instead, the loom file format has gained popularity as a preferred file type for disk-based storage of R objects, and is interoperable with other programming languages and software ecosystems.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Bioconductor in Galaxy</span>"
     ]
   },
   {
