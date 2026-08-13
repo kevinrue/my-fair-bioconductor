@@ -19,6 +19,7 @@ book:
     - index.qmd
     - definitions.qmd
     - bioc_in_galaxy.qmd
+    - bioc_in_nfcore.qmd
     - contributors.qmd
     - references.qmd
 
