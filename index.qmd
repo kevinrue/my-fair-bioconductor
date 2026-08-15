@@ -35,13 +35,16 @@ Describe personas, e.g.
 - Data science trainer
 - Data steward
 
-### Galaxy user wishing to use a new Bioconductor tool
+### Galaxy users
 
-Scientists using Galaxy to analyse data and wishing to use a Bioconductor tool not yet available in Galaxy.
+Do you use Galaxy to analyse data? Do you wish to use a Bioconductor tool not yet available in Galaxy?
 
-Where can they express their needs? Who can they expect on the other side of that conversation?
+* Where can you express your needs?
+* Who can you expect on the other side of that conversation?
+* What options do you have to autonomously access and use Bioconductor tools while waiting for a formal Galaxy tool wrapper?
 
-What options do they have to autonomously access and use Bioconductor tools without waiting for a formal Galaxy tool wrapper.
+This book does not aim to turn you into Bioconductor or Galaxy developers.
+It aims to provide guidance on how to access and use Bioconductor functionality in Galaxy workflows, and to signpost where to get help and support when needed.
 
 ## What this book contains
 
