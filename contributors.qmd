@@ -1,9 +1,9 @@
 # Contributors {.unnumbered}
 
-The table below lists the names (alphabetical order), affiliations, ORCID identifiers, and roles of each contributor.
+The table below lists the names (alphabetical order: last name, first name), affiliations, and ORCID identifiers of each contributor.
 
-| Name | Affiliation | ORCID | Role |
-|---|---|---|---|
-| Marisa Loach | The Open University | [0000-0001-6979-6930](https://orcid.org/0000-0001-6979-6930) | Writing – review & editing |
-| Kevin Rue | Oxford University | [0000-0003-3899-3872](https://orcid.org/0000-0003-3899-3872) | Writing – original draft |
+| Name | Affiliation | ORCID |
+|---|---|---|
+| Marisa Loach | The Open University | [0000-0001-6979-6930](https://orcid.org/0000-0001-6979-6930) |
+| Kevin Rue | Oxford University | [0000-0003-3899-3872](https://orcid.org/0000-0003-3899-3872) |
 
