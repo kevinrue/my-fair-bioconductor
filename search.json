@@ -44,7 +44,7 @@
     "href": "index.html#who-this-book-is-for",
     "title": "My FAIR Bioconductor",
     "section": "Who this book is for",
-    "text": "Who this book is for\nDescribe personas, e.g.\n\nBioconductor user\nGalaxy user\nnf-core user\nBioconductor developer\nGalaxy developer\nnf-core developer\nData science trainer\nData steward\n\n\nGalaxy user wishing to use a new Bioconductor tool\nScientists using Galaxy to analyse data and wishing to use a Bioconductor tool not yet available in Galaxy.\nWhere can they express their needs? Who can they expect on the other side of that conversation?\nWhat options do they have to autonomously access and use Bioconductor tools without waiting for a formal Galaxy tool wrapper.",
+    "text": "Who this book is for\nDescribe personas, e.g.\n\nBioconductor user\nGalaxy user\nnf-core user\nBioconductor developer\nGalaxy developer\nnf-core developer\nData science trainer\nData steward\n\n\nGalaxy users\nDo you use Galaxy to analyse data? Do you wish to use a Bioconductor tool not yet available in Galaxy?\n\nWhere can you express your needs?\nWho can you expect on the other side of that conversation?\nWhat options do you have to autonomously access and use Bioconductor tools while waiting for a formal Galaxy tool wrapper?\n\nThis book does not aim to turn you into Bioconductor or Galaxy developers. It aims to provide guidance on how to access and use Bioconductor functionality in Galaxy workflows, and to signpost where to get help and support when needed.",
     "crumbs": [
       "Preface"
     ]
